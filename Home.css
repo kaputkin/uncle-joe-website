@@ -1,6 +1,7 @@
  .u-section-1 {
   background-image: url("images/carter-cortelyou-Nr11pw9vhns-unsplash.jpg");
   background-position: 50% 50%;
+  filter: grayscale(1);
 }
 
 .u-section-1 .u-sheet-1 {
